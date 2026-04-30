@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Athrikaashinsa 👋
 
-<!--
-**athrikaashinsa/athrikaashinsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring developer
+📚 Currently learning Java and programming fundamentals
+🎯 Goal: become a skilled software engineer
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m focused on improving my coding skills and building a strong foundation in programming.
+
+Tech
+Java
+HTML & CSS
+Git
+Projects
+
+Coming soon...
+
+Contact
+
+GitHub: https://github.com/athrikaashinsa
